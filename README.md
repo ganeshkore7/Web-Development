@@ -1,5 +1,5 @@
 # Web-Development
-MERN stack practice-MongoDB, Express, React, and Node.js.
+MERN stack practice-MongoDB <img src="https://cdn.simpleicons.org/mongodb/47A248" height="40"/>, Express <img src="https://cdn.simpleicons.org/express/99999" height="40"/>, React <img src="https://cdn.simpleicons.org/react/61DAFB" height="40"/>, and Node.js <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="40"/>.
 ---
 
 <table align="center">
