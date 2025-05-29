@@ -1,23 +1,16 @@
 # Web-Development
-MERN stack practice-MongoDB <img src="https://cdn.simpleicons.org/mongodb/47A248" height="40"/>, Express <img src="https://cdn.simpleicons.org/express/999999" height="40"/>, React <img src="https://cdn.simpleicons.org/react/61DAFB" height="40"/>, and Node.js <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="40"/>.
----
-
-<table class="tech-table">
-  <tr>
-    <th colspan="4">Frontend</th>
-    <th colspan="2">Backend</th>
-    <th>Database</th>
-  </tr>
-  <tr>
-    <td><img src="https://cdn.simpleicons.org/html5/E34F26" height="60"/><br><sub>HTML</sub></td>
-    <td><img src="https://cdn.simpleicons.org/css3/1572B6" height="60"/><br><sub>CSS</sub></td>
-    <td><img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="60"/><br><sub>JavaScript</sub></td>
-    <td><img src="https://cdn.simpleicons.org/react/61DAFB" height="60"/><br><sub>React</sub></td>
-    <td><img src="https://cdn.simpleicons.org/express/999999" height="60"/><br><sub>Express</sub></td>
-    <td><img src="https://cdn.simpleicons.org/nodedotjs/339933" height="60"/><br><sub>Node.js</sub></td>
-    <td><img src="https://cdn.simpleicons.org/mongodb/47A248" height="60"/><br><sub>MongoDB</sub></td>
-  </tr>
-</table>
-
+<p align="left"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express" width="40" height="40"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" alt="Apache" width="40" height="40"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VSCode" width="40" height="40"/> 
+<img src="https://vitejs.dev/logo.svg" alt="Vite" width="40" height="40"/> 
+<img src="https://upload.wikimedia.org/wikipedia/commons/d/db/Npm-logo.svg" alt="NPM" width="40" height="40"/> </p>
 
 ---
